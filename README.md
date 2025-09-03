@@ -5,18 +5,6 @@ This project demonstrates the **PID control implementation** for a **Mass-Spring
 
 The mass-spring-damper system is a fundamental model in control theory, representing objects with **complex material behavior**, including nonlinearity and viscoelasticity.  
 
-The governing equation of the MSD system is:  
-
-\[
-m\ddot{x}(t) + b\dot{x}(t) + kx(t) = F(t)
-\]
-
-Taking Laplace transform:
-
-\[
-X(s)/F(s) = \frac{1}{ms^2 + bs + k}
-\]
-
 This transfer function is used as the foundation for both **analytical modeling** and **Simulink simulations**.
 
 ---
@@ -39,8 +27,11 @@ This transfer function is used as the foundation for both **analytical modeling*
 - Step Input: `1`
 - 
 🗂️ Project Structure
+<br />
 📄 MassSpringDamper.slx            # Simulink model
+<br />
 📄 MassSpringDamper_Integration.m  # MATLAB implementation
+<br />
 📄 MassSpringDamper.pdf            # Full project report
 
 📌 Reference
