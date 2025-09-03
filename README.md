@@ -35,4 +35,5 @@ This transfer function is used as the foundation for both **analytical modeling*
 ├──📄 MassSpringDamper.pdf            # Full project report
 
 📌 Reference
+<br />
 Mass-Spring-Damper System: Wikipedia (https://en.wikipedia.org/wiki/Mass-spring-damper_model)
