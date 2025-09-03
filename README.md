@@ -28,11 +28,11 @@ This transfer function is used as the foundation for both **analytical modeling*
 - 
 🗂️ Project Structure
 <br />
-📄 MassSpringDamper.slx            # Simulink model
+├──📄 MassSpringDamper.slx            # Simulink model
 <br />
-📄 MassSpringDamper_Integration.m  # MATLAB implementation
+├──📄 MassSpringDamper_Integration.m  # MATLAB implementation
 <br />
-📄 MassSpringDamper.pdf            # Full project report
+├──📄 MassSpringDamper.pdf            # Full project report
 
 📌 Reference
 Mass-Spring-Damper System: Wikipedia (https://en.wikipedia.org/wiki/Mass-spring-damper_model)
